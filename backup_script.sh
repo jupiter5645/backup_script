@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define source and destination directories
-SOURCE_DIR="$HOME/Documents"
+SOURCE_DIR="$HOME/Documents"  (Give your own folder name with proper directory path)
 BACKUP_DIR="$HOME/Backup"
 
 # Check if source directory exists
